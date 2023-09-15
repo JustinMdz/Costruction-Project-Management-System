@@ -344,7 +344,7 @@
 											"top": 394,
 											"width": 208.4697265625,
 											"height": 13,
-											"text": "+calculateMaterial(): double",
+											"text": "+calculateMaterialCost(): double",
 											"horizontalAlignment": 0
 										},
 										{
@@ -4289,7 +4289,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGKkPblgDw+akI="
 							},
-							"name": "calculateMaterial",
+							"name": "calculateMaterialCost",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
